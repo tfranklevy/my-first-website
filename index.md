@@ -1,8 +1,5 @@
----
-layout: default
----
 
-# Hello, World!
+**Tom Frank-Levy**
 
 Welcome to my website — built from scratch during **National Apprenticeship Week 2026**.
 
